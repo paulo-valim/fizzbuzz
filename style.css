@@ -1,0 +1,44 @@
+Body {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-family: "Nunito";
+    min-height: 600px;
+    background-image: url("https://mypcwalls.com/wp-content/uploads/2021/08/Galaxy-iMac-Wallpaper.jpg");
+    background-size: cover;
+    color: white;
+  }
+  
+  input {
+    width: 100px;
+    height: 30px;
+    border: none;
+  }
+  
+  button {
+    height: 32px;
+    border: none;
+    background-color: yellow;
+    font-weight: 900;
+  }
+  
+  button:hover {
+    color: white;
+    background-color: #0c66ba;
+  }
+  
+  .container4 {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .result {
+    text-align: center;
+    background-color: grey;
+    width: 600px;
+  }
+  
+  h2 {
+    font-weight: none;
+  }
+  

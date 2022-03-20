@@ -6,6 +6,7 @@ Body {
     min-height: 600px;
     background-image: url("https://mypcwalls.com/wp-content/uploads/2021/08/Galaxy-iMac-Wallpaper.jpg");
     background-size: cover;
+    background-repeat: no-repeat;
     color: white;
   }
   
